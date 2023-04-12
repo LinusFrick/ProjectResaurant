@@ -1,0 +1,47 @@
+.menu-header{
+    border: 1px solid black;
+}
+
+.menu-main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.menu-card{
+    border: 1px solid black;
+    margin: 50px 50px
+}
+
+
+.menu-img-container{
+    display: flex;
+    justify-content: end;
+}
+
+.menu-img{
+    border: 1px solid black;
+    width: 50em;
+    height: auto;
+    object-fit: cover;
+}
+
+.menu-info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.menu-price{
+    border: 1px solid black;
+}
+
+.menu-desc{
+    border: 1px solid black;
+}
+
